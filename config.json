@@ -1,0 +1,5 @@
+{"models_name":[
+    {"googlenet-googlenet-w8a8.tflite": "googlenet_qnt.tflite"},
+    {"inception_v3-inception-v3-w8a8.tflite": "inception_v3_qnt.tflite"},
+    {"resnext50-resnext50-w8a8.tflite": "resnext50_qnt.tflite"}
+]}
